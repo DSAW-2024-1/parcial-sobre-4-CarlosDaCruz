@@ -28,7 +28,12 @@ Requerimientos:
 
 | Criterio                   | Puntaje |
 | -------------------------- | ------- |
-| Diseño Responsive          | 2       |
-| HTML Semántico             | 1       |
-| Funcionalidad              | 1.5     |
-| Despliegue en Github Pages | 0.5     |
+| Diseño Responsive          | 2/2       |
+| HTML Semántico             | 1/1       |
+| Funcionalidad              | 1.5/1.5     |
+| Despliegue en Github Pages | 0.5/0.5     |
+
+Nota parcial: 5 x 0.8 -> 4, ¡buen trabajo! 
+
+![image](https://github.com/DSAW-2024-1/parcial-sobre-4-CarlosDaCruz/assets/50994778/24ac1139-9044-4530-a8dc-7ab5429bd87b)
+
